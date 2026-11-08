@@ -1,0 +1,8 @@
+[
+  { "id": "u-1001", "name": "Olivia Chen", "email": "olivia.chen@example.com", "role": "Admin", "status": "Active", "joinedAt": "2026-02-12" },
+  { "id": "u-1002", "name": "Noah Williams", "email": "noah.williams@example.com", "role": "Editor", "status": "Active", "joinedAt": "2026-03-04" },
+  { "id": "u-1003", "name": "Amara Okafor", "email": "amara.okafor@example.com", "role": "Viewer", "status": "Invited", "joinedAt": "2026-03-18" },
+  { "id": "u-1004", "name": "Lucas Martin", "email": "lucas.martin@example.com", "role": "Editor", "status": "Active", "joinedAt": "2026-04-02" },
+  { "id": "u-1005", "name": "Sofia Patel", "email": "sofia.patel@example.com", "role": "Viewer", "status": "Active", "joinedAt": "2026-04-21" },
+  { "id": "u-1006", "name": "Ethan Brooks", "email": "ethan.brooks@example.com", "role": "Admin", "status": "Invited", "joinedAt": "2026-05-09" }
+]
